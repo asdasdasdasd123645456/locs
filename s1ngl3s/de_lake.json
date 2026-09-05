@@ -1529,5 +1529,44 @@
       "Outside"
     ],
     "weapon": "weapon_hegrenade"
+  },
+  {
+    "grenade": {
+      "run": 12
+    },
+    "position": [
+      2513.8037109375,
+      -2680.7856445313,
+      -97.842910766602
+    ],
+    "viewangles": [
+      -20.868980407715,
+      -115.56922912598
+    ],
+    "name": [
+      "Unnamed",
+      "Rock"
+    ],
+    "weapon": "weapon_molotov"
+  },
+  {
+    "grenade": {
+      "run": 34,
+      "jump": true
+    },
+    "position": [
+      2448.4152832031,
+      -2694.1975097656,
+      -101.62483215332
+    ],
+    "viewangles": [
+      13.35200881958,
+      -114.11114501953
+    ],
+    "name": [
+      "Unnamed",
+      "Rock"
+    ],
+    "weapon": "weapon_hegrenade"
   }
 ]
