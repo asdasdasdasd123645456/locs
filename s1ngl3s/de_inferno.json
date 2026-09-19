@@ -17519,5 +17519,26 @@
       "Middle \/ Peek"
     ],
     "weapon": "weapon_molotov"
+  },
+  {
+    "grenade": {
+      "run": 27,
+      "jump": true
+    },
+    "position": [
+      1383.0891113281,
+      224.94329833984,
+      127.78228759766
+    ],
+    "viewangles": [
+      -2.8355910778046,
+      -47.454383850098
+    ],
+    "description": "[unsafe]",
+    "name": [
+      "Unnamed",
+      "2d + fd"
+    ],
+    "weapon": "weapon_molotov"
   }
 ]

@@ -588,5 +588,87 @@
       "Roof"
     ],
     "weapon": "weapon_knife"
+  },
+  {
+    "grenade": {
+      "run": 21,
+      "jump": true
+    },
+    "position": [
+      2361.1232910156,
+      553.38421630859,
+      638.89654541016
+    ],
+    "viewangles": [
+      32.14527130127,
+      -163.44909667969
+    ],
+    "name": [
+      "Unnamed",
+      "rock"
+    ],
+    "weapon": "weapon_hegrenade"
+  },
+  {
+    "grenade": {
+      "run": 21,
+      "jump": true
+    },
+    "position": [
+      2361.8935546875,
+      -26.516092300415,
+      638.12567138672
+    ],
+    "viewangles": [
+      33.435382843018,
+      173.15724182129
+    ],
+    "name": [
+      "Unnamed",
+      "rock"
+    ],
+    "weapon": "weapon_hegrenade"
+  },
+  {
+    "grenade": {
+      "strength": 0.5,
+      "run": 18
+    },
+    "position": [
+      2503.9006347656,
+      254.3807220459,
+      733.65533447266
+    ],
+    "viewangles": [
+      19.97145652771,
+      -157.80924987793
+    ],
+    "description": "[right]",
+    "name": [
+      "Unnamed",
+      "garage"
+    ],
+    "weapon": "weapon_hegrenade"
+  },
+  {
+    "grenade": {
+      "strength": 0.5,
+      "run": 24
+    },
+    "position": [
+      2497.6237792969,
+      249.93051147461,
+      738.11352539063
+    ],
+    "viewangles": [
+      11.500333786011,
+      -143.22299194336
+    ],
+    "description": "[left]",
+    "name": [
+      "Unnamed",
+      "garage"
+    ],
+    "weapon": "weapon_hegrenade"
   }
 ]
