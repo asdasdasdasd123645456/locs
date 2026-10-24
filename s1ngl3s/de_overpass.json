@@ -16404,5 +16404,54 @@
       "FD"
     ],
     "weapon": "weapon_hegrenade"
+  },
+  {
+    "position": [
+      -242.87483215332,
+      -844.11590576172,
+      48.257034301758
+    ],
+    "viewangles": [
+      -26.703479766846,
+      148.74656677246
+    ],
+    "name": [
+      "Unnamed",
+      "kynax spot"
+    ],
+    "weapon": "weapon_molotov"
+  },
+  {
+    "position": [
+      -601.3115234375,
+      -1123.2575683594,
+      57.780914306641
+    ],
+    "viewangles": [
+      -22.495979309082,
+      119.40002441406
+    ],
+    "duck": true,
+    "name": [
+      "Unnamed",
+      "kynax spot"
+    ],
+    "weapon": "weapon_hegrenade"
+  },
+  {
+    "position": [
+      -601.33380126953,
+      -1123.3070068359,
+      57.801254272461
+    ],
+    "viewangles": [
+      -22.608234405518,
+      125.62699127197
+    ],
+    "name": [
+      "Unnamed",
+      "kynax spot"
+    ],
+    "weapon": "weapon_molotov"
   }
 ]

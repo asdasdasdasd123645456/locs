@@ -17540,5 +17540,72 @@
       "2d + fd"
     ],
     "weapon": "weapon_molotov"
+  },
+  {
+    "grenade": {
+      "run": 18,
+      "run_yaw": -90,
+      "jump": true
+    },
+    "position": [
+      1466.5906982422,
+      208.63182067871,
+      131.05679321289
+    ],
+    "viewangles": [
+      8.1903848648071,
+      9.0157270431519
+    ],
+    "description": "[unsafe]",
+    "name": [
+      "Unnamed",
+      "sand"
+    ],
+    "weapon": "weapon_molotov"
+  },
+  {
+    "grenade": {
+      "run": 19,
+      "delay": 2,
+      "run_yaw": -90,
+      "jump": true
+    },
+    "position": [
+      1336.9615478516,
+      281.20324707031,
+      129.03125
+    ],
+    "viewangles": [
+      5.4110321998596,
+      -19.371061325073
+    ],
+    "description": "[semi-safe]",
+    "name": [
+      "Unnamed",
+      "sand"
+    ],
+    "weapon": "weapon_molotov"
+  },
+  {
+    "grenade": {
+      "run": 18,
+      "run_yaw": -90,
+      "jump": true
+    },
+    "position": [
+      1466.6346435547,
+      208.64929199219,
+      131.05737304688
+    ],
+    "viewangles": [
+      15.957896232605,
+      9.1023960113525
+    ],
+    "description": "[unsafe]",
+    "name": [
+      "Unnamed",
+      "sand"
+    ],
+    "weapon": "weapon_hegrenade"
   }
 ]

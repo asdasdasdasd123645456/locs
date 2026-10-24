@@ -15004,5 +15004,143 @@
       "Pillar"
     ],
     "weapon": "weapon_molotov"
+  },
+  {
+    "position": [
+      -1712.0316162109,
+      -62.013023376465,
+      11776.03125
+    ],
+    "viewangles": [
+      -28.809991836548,
+      77.903503417969
+    ],
+    "name": [
+      "Unnamed",
+      "flex spot"
+    ],
+    "weapon": "weapon_hegrenade"
+  },
+  {
+    "grenade": {
+      "run": 1,
+      "run_yaw": 180
+    },
+    "position": [
+      -1748.7196044922,
+      -83.460655212402,
+      11776.03125
+    ],
+    "viewangles": [
+      -17.8958568573,
+      68.803703308105
+    ],
+    "description": "[full]",
+    "name": [
+      "Unnamed",
+      "barrels"
+    ],
+    "weapon": "weapon_molotov"
+  },
+  {
+    "position": [
+      -1099.3415527344,
+      532.99761962891,
+      11777.03125
+    ],
+    "viewangles": [
+      -37.250335693359,
+      -179.16516113281
+    ],
+    "name": [
+      "Unnamed",
+      "barrels"
+    ],
+    "weapon": "weapon_smokegrenade"
+  },
+  {
+    "grenade": {
+      "recovery_yaw": 0,
+      "jump": true
+    },
+    "position": [
+      -1159.5689697266,
+      456.72164916992,
+      11777.03125
+    ],
+    "viewangles": [
+      -22.383739471436,
+      159.63038635254
+    ],
+    "description": "[fast]",
+    "name": [
+      "Unnamed",
+      "barrels"
+    ],
+    "weapon": "weapon_smokegrenade"
+  },
+  {
+    "grenade": {
+      "run": 24,
+      "recovery_jump": true,
+      "recovery_yaw": -2
+    },
+    "position": [
+      -1588.1043701172,
+      244.65718078613,
+      11776.03125
+    ],
+    "viewangles": [
+      15.251174926758,
+      57.061611175537
+    ],
+    "name": [
+      "Unnamed",
+      "CT Spot [Push]"
+    ],
+    "weapon": "weapon_hegrenade"
+  },
+  {
+    "grenade": {
+      "run": 46,
+      "delay": 15,
+      "recovery_yaw": -82,
+      "run_yaw": 144,
+      "jump": true
+    },
+    "position": [
+      -1619.9167480469,
+      -116.10382843018,
+      11776.03125
+    ],
+    "viewangles": [
+      -5.9399390220642,
+      6.9347267150879
+    ],
+    "name": [
+      "Unnamed",
+      "CT [Push]"
+    ],
+    "weapon": "weapon_hegrenade"
+  },
+  {
+    "grenade": {
+      "run": 1,
+      "jump": true
+    },
+    "position": [
+      -1639.3695068359,
+      -175.53987121582,
+      11776.03125
+    ],
+    "viewangles": [
+      1.0465846061707,
+      110.86867523193
+    ],
+    "name": [
+      "Unnamed",
+      "3D"
+    ],
+    "weapon": "weapon_molotov"
   }
 ]
